@@ -1,4 +1,5 @@
----
+баллууу
+
 manufacturer:
     - general
 ---
